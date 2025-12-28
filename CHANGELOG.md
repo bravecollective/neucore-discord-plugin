@@ -1,6 +1,6 @@
 # Changelog:
 
-## 5.0.0, 2023-11-23
+## 5.0.0, 2024-11-23
 
 - Raised minimum required PHP version to 8.1.0
 - Compatibility with PHP 8.4.
