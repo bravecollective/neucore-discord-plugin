@@ -1,5 +1,10 @@
 # Changelog:
 
+## 5.1.0, 2026-01-05
+
+- Compatibility with PHP 8.5
+- Updated to Neucore plugin version 6.1
+
 ## 5.0.0, 2024-11-23
 
 - Raised minimum required PHP version to 8.1.0
